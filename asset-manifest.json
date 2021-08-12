@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FCC-25-5_clock/static/css/main.58ccac58.chunk.css",
+    "main.js": "/FCC-25-5_clock/static/js/main.74d89aa4.chunk.js",
+    "main.js.map": "/FCC-25-5_clock/static/js/main.74d89aa4.chunk.js.map",
+    "runtime-main.js": "/FCC-25-5_clock/static/js/runtime-main.6497eb8f.js",
+    "runtime-main.js.map": "/FCC-25-5_clock/static/js/runtime-main.6497eb8f.js.map",
+    "static/css/2.75a21243.chunk.css": "/FCC-25-5_clock/static/css/2.75a21243.chunk.css",
+    "static/js/2.c5253fbb.chunk.js": "/FCC-25-5_clock/static/js/2.c5253fbb.chunk.js",
+    "static/js/2.c5253fbb.chunk.js.map": "/FCC-25-5_clock/static/js/2.c5253fbb.chunk.js.map",
+    "static/js/3.1961b5ef.chunk.js": "/FCC-25-5_clock/static/js/3.1961b5ef.chunk.js",
+    "static/js/3.1961b5ef.chunk.js.map": "/FCC-25-5_clock/static/js/3.1961b5ef.chunk.js.map",
+    "index.html": "/FCC-25-5_clock/index.html",
+    "static/css/2.75a21243.chunk.css.map": "/FCC-25-5_clock/static/css/2.75a21243.chunk.css.map",
+    "static/css/main.58ccac58.chunk.css.map": "/FCC-25-5_clock/static/css/main.58ccac58.chunk.css.map",
+    "static/js/2.c5253fbb.chunk.js.LICENSE.txt": "/FCC-25-5_clock/static/js/2.c5253fbb.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/FCC-25-5_clock/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6497eb8f.js",
+    "static/css/2.75a21243.chunk.css",
+    "static/js/2.c5253fbb.chunk.js",
+    "static/css/main.58ccac58.chunk.css",
+    "static/js/main.74d89aa4.chunk.js"
+  ]
+}
